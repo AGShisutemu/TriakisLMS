@@ -1,3 +1,5 @@
+![alt text](https://static.wikia.nocookie.net/wipeout/images/f/fe/Triakis_pulse.png/revision/latest?cb=20121103052725 "Logo Title Text 1")
+
 ### INSTALL INSTRUCTIONS FOR XAMPP
 
  1. Clone the repository
